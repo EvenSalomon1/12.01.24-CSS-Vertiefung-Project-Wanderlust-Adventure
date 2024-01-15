@@ -294,6 +294,12 @@ header div a {
     font-size: 1.6rem;
   }
 
+  /* !second section */
+
+  .second {
+    padding: 10rem 7rem;
+  }
+
   /*! places   */
 
   .places {
